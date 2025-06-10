@@ -1,0 +1,202 @@
+[
+    {
+        "bus_number": "UP 78 1200",
+        "assigned_driver": "Driver 0",
+        "route": "Vijaynagar",
+        "location": {
+            "latitude": 26.9124,
+            "longitude": 80.9431
+        },
+        "bus_id": "1200"
+    },
+    {
+        "bus_number": "UP 78 1201",
+        "assigned_driver": "Driver 1",
+        "route": "Naubasta",
+        "location": {
+            "latitude": 26.8467,
+            "longitude": 80.9462
+        },
+        "bus_id": "1201"
+    },
+    {
+        "bus_number": "UP 78 1202",
+        "assigned_driver": "Driver 2",
+        "route": "Kalyanpur",
+        "location": {
+            "latitude": 26.8967,
+            "longitude": 80.9554
+        },
+        "bus_id": "1202"
+    },
+    {
+        "bus_number": "UP 78 1203",
+        "assigned_driver": "Driver 3",
+        "route": "Vijaynagar",
+        "location": {
+            "latitude": 26.9125,
+            "longitude": 80.9429
+        },
+        "bus_id": "1203"
+    },
+    {
+        "bus_number": "UP 78 1204",
+        "assigned_driver": "Driver 4",
+        "route": "Naubasta",
+        "location": {
+            "latitude": 26.8468,
+            "longitude": 80.9461
+        },
+        "bus_id": "1204"
+    },
+    {
+        "bus_number": "UP 78 1205",
+        "assigned_driver": "Driver 5",
+        "route": "Kalyanpur",
+        "location": {
+            "latitude": 26.897,
+            "longitude": 80.9551
+        },
+        "bus_id": "1205"
+    },
+    {
+        "bus_number": "UP 78 1206",
+        "assigned_driver": "Driver 6",
+        "route": "Vijaynagar",
+        "location": {
+            "latitude": 26.9126,
+            "longitude": 80.943
+        },
+        "bus_id": "1206"
+    },
+    {
+        "bus_number": "UP 78 1207",
+        "assigned_driver": "Driver 7",
+        "route": "Naubasta",
+        "location": {
+            "latitude": 26.8469,
+            "longitude": 80.9463
+        },
+        "bus_id": "1207"
+    },
+    {
+        "bus_number": "UP 78 1208",
+        "assigned_driver": "Driver 8",
+        "route": "Kalyanpur",
+        "location": {
+            "latitude": 26.8972,
+            "longitude": 80.9552
+        },
+        "bus_id": "1208"
+    },
+    {
+        "bus_number": "UP 78 1209",
+        "assigned_driver": "Driver 9",
+        "route": "Vijaynagar",
+        "location": {
+            "latitude": 26.9127,
+            "longitude": 80.9478 
+        },
+        "bus_id": "1209"
+    },
+    {
+        "bus_number": "UP 78 1210",
+        "assigned_driver": "Driver 10",
+        "route": "Naubasta",
+        "location": {
+            "latitude": 26.847,
+            "longitude": 80.946
+        },
+        "bus_id": "1210"
+    },
+    {
+        "bus_number": "UP 78 1211",
+        "assigned_driver": "Driver 11",
+        "route": "Kalyanpur",
+        "location": {
+            "latitude": 26.8973,
+            "longitude": 80.9553
+        },
+        "bus_id": "1211"
+    },
+    {
+        "bus_number": "UP 78 1212",
+        "assigned_driver": "Driver 12",
+        "route": "Vijaynagar",
+        "location": {
+            "latitude": 26.9128,
+            "longitude": 80.9433
+        },
+        "bus_id": "1212"
+    },
+    {
+        "bus_number": "UP 78 1213",
+        "assigned_driver": "Driver 13",
+        "route": "Naubasta",
+        "location": {
+            "latitude": 26.8471,
+            "longitude": 80.9464
+        },
+        "bus_id": "1213"
+    },
+    {
+        "bus_number": "UP 78 1214",
+        "assigned_driver": "Driver 14",
+        "route": "Kalyanpur",
+        "location": {
+            "latitude": 26.8975,
+            "longitude": 80.9555
+        },
+        "bus_id": "1214"
+    },
+    {
+        "bus_number": "UP 78 1215",
+        "assigned_driver": "Driver 15",
+        "route": "Vijaynagar",
+        "location": {
+            "latitude": 26.9129,
+            "longitude": 80.9435
+        },
+        "bus_id": "1215"
+    },
+    {
+        "bus_number": "UP 78 1216",
+        "assigned_driver": "Driver 16",
+        "route": "Naubasta",
+        "location": {
+            "latitude": 26.8472,
+            "longitude": 80.9466
+        },
+        "bus_id": "1216"
+    },
+    {
+        "bus_number": "UP 78 1217",
+        "assigned_driver": "Driver 17",
+        "route": "Kalyanpur",
+        "location": {
+            "latitude": 26.8976,
+            "longitude": 80.9556
+        },
+        "bus_id": "1217"
+    },
+    {
+        "bus_number": "UP 78 1218",
+        "assigned_driver": "Driver 18",
+        "route": "Vijaynagar",
+        "location": {
+            "latitude": 26.913,
+            "longitude": 80.9434
+        },
+        "bus_id": "1218"
+    },
+    {
+        "bus_number": "UP 78 1219",
+        "assigned_driver": "Driver 19",
+        "route": "Naubasta",
+        "location": {
+            "latitude": 26.8473,
+            "longitude": 80.9467
+        },
+        "bus_id": "1219"
+    }
+]
